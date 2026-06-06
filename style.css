@@ -1,1 +1,41 @@
-
+body {
+    background-color: lightskyblue;
+  text-align: center;
+}
+h1{
+  color: yellow;
+  background-color:black;
+  font-weight: bold;
+  font-size: 30px;
+  }
+.sea{
+  font-size: 20px;
+  font-weight: bold;
+    color:black;
+  }
+.happy{
+  font-size: 20px;
+  font-weight: bold;
+  color:red;
+}
+.meme{
+  font-size: 20px;
+  font-weight: bold;
+  color:Brown;
+}
+.zss{
+  font-size: 20px;
+  font-weight: bold;
+  color:blue;
+}
+.tt{ 
+  font-size: 20px;
+  font-weight: bold;
+  color:green;
+}
+button {
+    background-color: #4cAf50;
+    color: white;
+    padding: 5px 15px; 
+    border: none;
+    border-radius: 5px;}
